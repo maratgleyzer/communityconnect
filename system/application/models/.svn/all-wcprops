@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Main/!svn/ver/824/CommunityConnect/trunk/civic/system/application/models
+END
+import_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Main/!svn/ver/790/CommunityConnect/trunk/civic/system/application/models/import_model.php
+END
+rank_potential_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Main/!svn/ver/819/CommunityConnect/trunk/civic/system/application/models/rank_potential_model.php
+END
+serviceareas_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Main/!svn/ver/755/CommunityConnect/trunk/civic/system/application/models/serviceareas_model.php
+END
+rank_patron_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Main/!svn/ver/819/CommunityConnect/trunk/civic/system/application/models/rank_patron_model.php
+END
+block_sum_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Main/!svn/ver/815/CommunityConnect/trunk/civic/system/application/models/block_sum_model.php
+END
+rank_market_share_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Main/!svn/ver/819/CommunityConnect/trunk/civic/system/application/models/rank_market_share_model.php
+END
+rank_checkout_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Main/!svn/ver/819/CommunityConnect/trunk/civic/system/application/models/rank_checkout_model.php
+END
+material_types_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Main/!svn/ver/517/CommunityConnect/trunk/civic/system/application/models/material_types_model.php
+END
+item_types_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Main/!svn/ver/433/CommunityConnect/trunk/civic/system/application/models/item_types_model.php
+END
+checkout_sum_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Main/!svn/ver/815/CommunityConnect/trunk/civic/system/application/models/checkout_sum_model.php
+END
+block_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Main/!svn/ver/824/CommunityConnect/trunk/civic/system/application/models/block_model.php
+END
+reports_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Main/!svn/ver/594/CommunityConnect/trunk/civic/system/application/models/reports_model.php
+END
+users_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Main/!svn/ver/776/CommunityConnect/trunk/civic/system/application/models/users_model.php
+END
+usage_stats.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Main/!svn/ver/185/CommunityConnect/trunk/civic/system/application/models/usage_stats.php
+END
+patron_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Main/!svn/ver/287/CommunityConnect/trunk/civic/system/application/models/patron_model.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Main/!svn/ver/166/CommunityConnect/trunk/civic/system/application/models/index.html
+END
+rank_population_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Main/!svn/ver/819/CommunityConnect/trunk/civic/system/application/models/rank_population_model.php
+END

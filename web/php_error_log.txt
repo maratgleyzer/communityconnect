@@ -1,0 +1,193 @@
+[Tue Nov 16 20:00:43 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Tue Nov 16 20:00:44 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Tue Nov 16 20:04:00 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Tue Nov 16 20:04:01 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Tue Nov 16 20:08:05 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Tue Nov 16 20:08:06 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Wed Nov 17 04:39:44 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Wed Nov 17 04:39:44 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Wed Nov 17 04:40:48 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Wed Nov 17 04:40:49 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Wed Nov 17 04:46:16 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Wed Nov 17 04:46:16 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Wed Nov 17 04:48:13 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Wed Nov 17 04:48:14 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Wed Nov 17 04:49:03 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Wed Nov 17 04:49:03 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Wed Nov 17 04:55:50 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Wed Nov 17 04:55:50 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Wed Nov 17 04:56:35 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Wed Nov 17 04:56:36 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Wed Nov 17 08:42:40 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/favicon.ico
+[Wed Nov 17 08:46:08 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/favicon.ico
+[Wed Nov 17 08:46:11 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/favicon.ico
+[Wed Nov 17 08:46:54 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/favicon.ico
+[Mon Nov 29 21:01:04 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/favicon.ico
+[Mon Nov 29 21:01:07 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/favicon.ico
+[Mon Nov 29 21:01:15 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:01:15 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:01:38 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:01:39 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:02:34 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:02:35 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:03:25 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:03:26 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:04:56 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:04:57 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:05:37 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:05:37 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:06:07 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:06:08 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:06:37 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:06:38 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:06:57 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:06:58 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:09:15 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:09:16 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:10:31 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:10:31 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:11:39 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:11:40 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:12:05 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:12:05 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:13:40 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:13:41 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:14:12 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:14:12 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:14:45 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:14:45 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:15:48 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:15:49 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:16:15 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:16:15 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:16:36 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:16:37 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:17:17 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:17:18 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:19:21 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:19:22 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:22:43 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:22:44 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:25:35 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:25:35 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:29:49 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:29:50 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:30:28 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:30:28 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:32:48 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:32:49 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:33:06 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:33:07 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:34:30 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:34:30 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:35:55 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:35:55 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:36:41 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:36:41 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:37:07 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:37:08 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:37:43 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:37:44 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:38:09 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:38:09 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:51:04 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:51:05 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:51:53 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:51:54 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:54:06 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:54:07 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:55:36 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:55:36 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:57:32 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:57:32 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:59:50 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 21:59:51 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:00:48 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:00:48 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:01:48 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:01:48 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:02:32 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:02:33 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:03:30 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:03:30 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:06:44 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:06:45 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:07:15 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:07:15 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:08:17 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:08:18 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:08:58 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:08:59 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:21:34 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:21:35 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:35:22 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:35:23 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:36:40 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:36:40 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:37:22 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:37:23 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:37:31 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:37:31 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:39:29 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:39:30 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:41:34 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:41:35 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:41:42 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:41:42 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:56:34 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:56:35 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:56:51 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:56:51 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:56:57 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 22:56:58 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:01:25 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:01:26 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:01:32 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:01:33 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:06:19 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:06:20 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:08:10 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:08:10 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:09:38 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:09:39 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:12:41 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:12:42 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:13:00 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:13:00 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:14:49 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:14:50 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:16:28 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:16:29 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:27:06 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:27:07 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:29:43 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:29:44 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:29:58 2010] [info] [client 127.0.0.1] (OS 10053)An established connection was aborted by the software in your host machine.  : core_output_filter: writing data to the network
+[Mon Nov 29 23:29:58 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:29:59 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:32:47 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:32:48 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:32:55 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:32:56 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:35:39 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:35:39 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:35:45 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:35:45 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:46:34 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:46:35 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:47:30 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Mon Nov 29 23:47:30 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Tue Nov 30 00:06:22 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Tue Nov 30 00:06:22 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/css/sort_list.css, referer: http://gg.localhost/compareservices
+[Sun Dec 05 06:48:14 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/favicon.ico
+[Sun Dec 05 06:48:17 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/favicon.ico
+[Mon Dec 06 20:52:32 2010] [info] [client 127.0.0.1] (OS 10054)An existing connection was forcibly closed by the remote host.  : core_output_filter: writing data to the network
+[Mon Dec 06 20:52:32 2010] [info] [client 127.0.0.1] (OS 10054)An existing connection was forcibly closed by the remote host.  : core_output_filter: writing data to the network
+[Mon Dec 06 20:52:34 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/favicon.ico
+[Mon Dec 06 20:53:24 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/favicon.ico
+[Mon Dec 06 21:35:45 2010] [info] [client 127.0.0.1] (OS 10053)An established connection was aborted by the software in your host machine.  : core_output_filter: writing data to the network
+[Mon Dec 06 21:35:45 2010] [info] [client 127.0.0.1] (OS 10053)An established connection was aborted by the software in your host machine.  : core_output_filter: writing data to the network
+[Thu Dec 09 17:54:45 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/favicon.ico
+[Thu Dec 09 17:54:48 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/favicon.ico
+[Thu Dec 09 17:54:48 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/favicon.ico
+[Thu Dec 09 17:54:48 2010] [error] [client 127.0.0.1] File does not exist: D:/xampp/htdocs/civic/web/favicon.ico

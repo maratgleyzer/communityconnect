@@ -1,0 +1,19 @@
+#wrapper { 
+	margin:157px auto 0 auto;
+}
+
+#container {
+	margin-top:0;
+}
+
+#studySelect {
+	top:20px;
+}
+
+#main {
+	padding-top:80px;
+}
+
+li.ui-state-selected {
+	border-bottom:1px solid #ffffff;
+}

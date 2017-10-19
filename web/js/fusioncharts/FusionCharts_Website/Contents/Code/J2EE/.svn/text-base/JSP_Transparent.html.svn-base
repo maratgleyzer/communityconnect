@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>FusionCharts v3 Documentation</title>
+<link rel="stylesheet" href="../../css/Style.css" type="text/css" />
+<script type="text/javascript" src="../../assets/prettify/prettify.js"></script>
+<link rel="stylesheet" type="text/css" href="../../assets/prettify/prettify.css" />
+<script type="text/javascript" src="../../assets/ui/js/jquery-1.4.2.min.js" ></script>
+<script type="text/javascript" src="../../assets/ui/js/lib.js" ></script>
+</head>
+
+<body>
+<table width="98%" border="0" cellspacing="0" cellpadding="3" align="center">
+  <tr> 
+    <td class="pageHeader">Using FusionCharts with JSP &gt; Chart Transparency</td>
+  </tr>
+  <tr> 
+    <td valign="top" class="text"><p>In the previous section we discussed the basics of using FusionCharts with JSP. In the current section, we will see how we can make the charts transparent. We will extend our previous example and only add a few more lines of code to make the chart transparent.</p>    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" class="highlightBlock">All code discussed here is present in <span class="codeInline">Download Package &gt; Code &gt; J2EE</span> &gt; <span class="codeInline">BasicExample</span> folder. </td>
+  </tr>
+  <tr>
+    <td valign="top" class="text">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" class="header">Creating a transparent and an opaque chart<span class="codeInline"></span></td>
+  </tr>
+  <tr>
+    <td valign="top" class="text"><p>We will build two Column 3D charts, both using the same data-source. We take the exsiting <span class="codeInline">SimpleChart.jsp</span> and <span class="codeInline">Data.xml</span> (present in <span class="codeInline">Data</span> folder) and modify these to acheive our goal. We modify <span class="codeInline">SimpleChart.jsp</span> to render two column 3D charts.</p>
+        <p>Let's first have a look at the modified code for <span class="codeInline">SimpleChart.jsp</span>: ( We save the it as <span class="codeInline">TransparentChart.jsp</span>)</p>    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" class="codeBlock code_container"><p>&lt;%@ taglib prefix=&quot;c&quot; uri=&quot;http://java.sun.com/jsp/jstl/core&quot; %&gt;<br />
+        &lt;%@ taglib uri=&quot;http://www.fusioncharts.com/jsp/core&quot; prefix=&quot;fc&quot; %&gt; <br />
+        &lt;%@ taglib prefix=&quot;tags&quot; tagdir=&quot;/WEB-INF/tags&quot; %&gt;<br />
+        &lt;jsp:useBean id=&quot;chartData&quot; class=&quot;com.fusioncharts.sampledata.TransparentRenderData&quot;/&gt;<br />
+        &lt;c:set var=&quot;folderPath&quot; value=&quot;../../FusionCharts/&quot;/&gt;<br />
+        &lt;c:set var=&quot;title&quot; value=&quot;FusionCharts - Transparent Column 3D Chart&quot; scope=&quot;request&quot;/&gt;<br />
+        &lt;c:set var=&quot;header1&quot; value=&quot;FusionCharts - Examples&quot; scope=&quot;request&quot;/&gt;<br />
+        &lt;c:set var=&quot;header2&quot; value=&quot;FusionCharts - Transparent Column 3D Chart&quot; scope=&quot;request&quot;/&gt;<br />
+        &lt;c:set var=&quot;jsPath&quot; value=&quot;${folderPath}&quot; scope=&quot;request&quot;/&gt;</p>
+        <p>&lt;%-- This page demonstrates the ease of generating charts using FusionCharts.<br />
+   &nbsp;&nbsp; For this chart, we've used a pre-defined Data.xml (contained in /Data/ folder)<br />
+   &nbsp;&nbsp; Ideally, you would NOT use a physical data file. Instead you'll have <br />
+   &nbsp;&nbsp; your own code virtually relay the XML data document. Such examples are also present.<br />
+   &nbsp;&nbsp; For a head-start, we've kept this example very simple.<br />
+    --%&gt;<br />
+&lt;%-- <br />
+&nbsp;&nbsp;
+chartId=&quot;myFirstChart_Transparent&quot;;<br />
+&nbsp;&nbsp;
+filename = &quot;../../FusionCharts/Column3D.swf&quot;;<br />
+&nbsp;&nbsp;
+url=&quot;<strong>Data/Data_Transparent.xml</strong>&quot;;<br />
+&nbsp;&nbsp;
+width=&quot;600&quot;;<br />
+&nbsp;&nbsp;
+height=&quot;300&quot;;<br />
+--%&gt; <br />
+&lt;%-- Create the chart - Column 3D Chart with data from Data/Data.xml --%&gt;<br />
+&lt;tags:template2&gt;<br />
+&nbsp; &lt;div style=&quot;padding:40px; <strong>background-color:#9d7fbd;</strong> border:1px solid #745C92; width: 600px;&quot;&gt;<br />
+&nbsp; &lt;c:catch var=&quot;fcTagError&quot;&gt;<br />
+&nbsp; &lt;fc:render chartId=&quot;${chartData.chartId}&quot; swfFilename=&quot;${folderPath}${chartData.swfFilename}&quot; width=&quot;${chartData.width}&quot; height=&quot;${chartData.height}&quot; debugMode=&quot;false&quot; registerWithJS=&quot;false&quot; xmlUrl=&quot;${chartData.url}&quot; <strong>windowMode=&quot;transparent&quot;</strong> /&gt;<br />
+&lt;/c:catch&gt;<br />
+<br />
+&lt;c:catch var=&quot;fcTagError2&quot;&gt;<br />
+&nbsp; &lt;fc:renderHTML chartId=&quot;${chartData.chartId2}&quot; swfFilename=&quot;${folderPath}${chartData.swfFilename}&quot; width=&quot;${chartData.width}&quot; height=&quot;${chartData.height}&quot; debugMode=&quot;false&quot; xmlUrl=&quot;${chartData.url}&quot; <strong>windowMode=&quot;opaque&quot;</strong> /&gt;<br />
+&lt;/c:catch&gt;<br />
+&lt;/div&gt;<br />
+<br />
+&lt;c:if test=&quot;${not empty fcTagError}&quot;&gt;<br />
+&nbsp;&nbsp;
+Tag Error: &lt;br/&gt;${fcTagError}<br />
+&lt;/c:if&gt;<br />
+&lt;c:if test=&quot;${not empty fcTagError2}&quot;&gt;<br />
+&nbsp;&nbsp;
+Tag Error: &lt;br/&gt;${fcTagError2}<br />
+&lt;/c:if&gt;<br />
+<br />
+&lt;/tags:template2&gt;<br />
+        </p>
+        </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" class="text"><p>As you can see above, we did the following: </p>
+      <ol>
+        <li>We've first added the attribute <span class="codeInline">windowMode=&quot;transparent&quot;</span>. This sets the  chart to transparent mode. By transparent mode, it means that now the chart is preapared to be in transparent mode. Hence , the first chart rendered would be rendered in transparent mode.<br />
+        </li>
+        <li>For the second chart, we have added the attribute <span class="codeInline">windowMode=&quot;opaque&quot;.</span>This will set the chart to be in opaque mode. By opaque mode, it means that the chart can no longer be renderd transparent.<br />
+        </li>
+        <li>Moreover, we have placed the charts inside a purple coloured container to make sure that the charts rendered are truly transparent or not.</li>
+      </ol>
+      <p>As you have noticed, we have used <span class="codeInline">Data_Transparent.xml</span> file as the dataURL source for both the charts. We did a little modificaiton to the existing <span class="codeInline">Data.xml</span> file to set the background of the chart transparent and saved it as <span class="codeInline">Data_Transparent.xml</span>.</p>
+      <p>Let us have a look at the modified XML:</p>    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" class="codeBlock code_container">&lt;chart caption='Monthly Unit Sales' xAxisName='Month' yAxisName='Units' <br />
+      &nbsp;&nbsp;&nbsp;showValues='0' formatNumberScale='0' showBorder='1' <strong>canvasBgAlpha='0' bgAlpha='0'</strong>&gt;<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&lt;set label='Jan' value='462' /&gt;<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&lt;set label='Feb' value='857' /&gt;<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&lt;set label='Mar' value='671' /&gt;<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&lt;set label='Apr' value='494' /&gt;<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&lt;set label='May' value='761' /&gt;<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&lt;set label='Jun' value='960' /&gt;<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&lt;set label='Jul' value='629' /&gt;<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&lt;set label='Aug' value='622' /&gt;<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&lt;set label='Sep' value='376' /&gt;<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&lt;set label='Oct' value='494' /&gt;<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&lt;set label='Nov' value='761' /&gt;<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&lt;set label='Dec' value='960' /&gt;<br />
+    &lt;/chart&gt;</td>
+  </tr>
+  
+  <tr>
+    <td valign="top" class="text"><p>This XML is identical to our previous <span class="codeInline">SimpleChart.jsp</span> example except for the <span class="codeInline">bgAlpha </span><span class="text">and</span><span class="codeInline"> canvasBgAlpha</span> attributes. <span class="codeInline">bgAlpha</span> sets the opacity of the chart's main background while <span class="codeInline">canvasBgAlpha</span> sets the opacity of the chart's 3D canvas.  The attributes are set to 0 to declare full transparency.</p>    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" class="highlightBlock">Please note that to set a chart transparent we need to go through two steps. First we need to set the chart in Transparent mode ( <span class="codeInline">windowMode=&quot;transparent&quot;</span> ) . Finally, we need to set <span class="codeInline">bgAlpha </span>( additionally <span class="codeInline">canvasBgAlpha</span> ) attribute of <span class="codeInline">&lt;chart&gt; </span>element to apply transparency on the chart which has been set to transparent mode. One without the other is ineffective. Hence, we would find  from the above example, that even though the second chart is set with transparency attribute values it remains opaque, since it is set to opaque mode.</td>
+  </tr>
+  
+  <tr>
+    <td valign="top" class="text"><p>The resultant charts would look as follows:</p>
+    <p><img src="../../Images/ASP_Transparent.jpg" width="458" height="482" /></p></td>
+  </tr>
+  
+  <tr>
+    <td valign="top" class="text">We find that the first chart is transparent. The background has vanished and the container's purple color is seen through the chart. The second chart, since set to opaque mode, has not turned transparent. Rather, an opaque white background is being shown.</td>
+  </tr>
+</table>
+</body>
+</html>

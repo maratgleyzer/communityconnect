@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/Code/RoR/SampleApp/db
+END
+schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/Code/RoR/SampleApp/db/schema.rb
+END
+create_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/Code/RoR/SampleApp/db/create_tables.sql
+END
+insert_sample_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/Code/RoR/SampleApp/db/insert_sample_data.sql
+END
+create_utfexample_tables_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/Code/RoR/SampleApp/db/create_utfexample_tables_data.sql
+END

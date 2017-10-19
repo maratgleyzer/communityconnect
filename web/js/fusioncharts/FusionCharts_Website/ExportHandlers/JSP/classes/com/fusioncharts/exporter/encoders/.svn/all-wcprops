@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/ExportHandlers/JSP/classes/com/fusioncharts/exporter/encoders
+END
+Encoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/ExportHandlers/JSP/classes/com/fusioncharts/exporter/encoders/Encoder.class
+END
+BasicEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/ExportHandlers/JSP/classes/com/fusioncharts/exporter/encoders/BasicEncoder.class
+END
+JPEGEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/ExportHandlers/JSP/classes/com/fusioncharts/exporter/encoders/JPEGEncoder.class
+END

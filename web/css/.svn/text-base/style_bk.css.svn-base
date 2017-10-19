@@ -1,0 +1,584 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+/* remember to define focus styles! */
+:focus {outline: 0;}
+body {
+line-height: 1;
+}
+ol, ul {list-style: none;}
+/* tables still need 'cellspacing="0"' in the markup */
+table {border-collapse: separate; border-spacing: 0;}
+caption, th, td {text-align: left; font-weight: normal;}
+blockquote:before, blockquote:after,
+q:before, q:after {content: "";}
+blockquote, q {quotes: "" "";}
+/* images and linked images without border */
+img, a img {border: 0;}
+
+/*Form elements */
+select { width:150px; }
+
+body { background:url(images/bg.jpg) repeat-x; }
+#wrapper { margin:0 auto; width:980px; position:relative;}
+#container-top { background:url(images/container-top.png) no-repeat; height:50px; width:980px; margin:129px auto 0 auto;  }
+#container { background:url(images/bg-repeater.png) 8px 0 repeat-y; width:980px; margin: 0 auto; }
+#container-bottom { background:url(images/container-bottom.png) no-repeat; height:30px; width:980px; margin:0 auto;}
+
+/* NON-HEADER */
+*{padding:0px; margin:0px;}
+ body {font-family:arial,sans-serif; }
+ p {font-size:12px; margin-bottom:12px; color:#5a554c;}
+ ol {margin-top:0px; padding-top:0px; margin-left:20px; padding-left:20px; padding-right:40px;margin-bottom:15px;}
+ ol.inlinecontent li {font-size:11px; margin-bottom:6px; color:#5a554c;}
+a img {border:solid 0px;}
+a:hover img {border:solid 0px;}
+
+#appcontainer { height:1015px; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/; z-index:1000;  }
+#appcontainergoals {margin:0; width:980px; height:1150px; position:absolute; top:0px; left:0px; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/; z-index:1000}
+#containerbottom{position:absolute; top:1084px; height:14px; width:1014px;}
+a:active { outline: none; }
+a:focus { -moz-outline-style: none; }
+a {color:#d61f3a;}
+
+/* HEADER */
+#header {width:980px; height:121px; margin-top:-77px; margin-left:13px; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;z-index:250;}
+#globalnav {width:175px; height:15px; position:absolute; top:17px; left:814px; background: url(../images/topnav_background.gif); z-index:2000;  overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+#studySelect { position:absolute; top:-77px; left:30px; z-index:1000;}
+#studySelect p { color:#666666; }
+#studySelect select { background:#d9d3c0; width:150px;}
+/*#logo {width:233px; height:50px; position:absolute; top:23px; left:50px; background: url(../images/logo.gif);  overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}*/
+/*#slogan {width:159px; height:41px; position:absolute; top:38px; left:325px; background: url(../images/slogan.gif);  overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}*/
+/*#comconnect {width:332px; height:54px; position:absolute; top:43px; left:574px; background: url(../images/communityconnect.gif);  overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}*/
+#line {width:1px; height:32px; position:absolute; top:30px; left:303px; background: url(../images/line.jpg);  overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+#tabs { z-index:100; }
+#topborder {z-index:99; position:absolute; height:1px; width:980px; left:19px;top:121px;}
+.mainMenu { background:url(images/menuTab-inactive.png) repeat-x; border:1px solid #cccccc; border-radius:3px 3px 0 0; -webkit-border-radius:3px 3px 0 0; -moz-border-radius:3px 3px 0 0; padding:0 8px; margin:0 1px; height:26px; float:left; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/; }
+.mainMenu.current { background:url(images/menuTab-active.png) repeat-x; border-bottom:none; border-left:1px solid #cccccc; height:27px; padding:0 10px;}
+.mainMenu a { color:#ffffff; font-size:13px; text-decoration:none; line-height:26px;}
+.mainMenu.current a { color:#000000; }
+
+#studySelect {  }
+
+#nava {width:51px; height:5px; position:relative; float:left; margin-right:3px; }
+#navb {width:53px; height:5px; position:relative; float:left; margin-right:3px; }
+#navc {width:32px; height:5px; position:relative; float:left; margin-right:3px; }
+
+
+#globalnav li {
+    display: block;
+	margin-left:2px;
+    float:left;
+    background-repeat: no-repeat;
+}
+
+
+#globalnav a {
+    display: block;
+    font-size: 1px;
+    text-indent: -999999em;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+#projectinfo a {         /* default image */
+    background-image: url(../images/globalnav_projectinfo.gif);
+	width:60px;
+	height:15px;
+}
+
+#tapestryinfo a {         /* default image */
+    background-image: url(../images/globalnav_tapestryinfo.gif);
+	width:63px;
+	height:15px;
+}
+
+#contact a {         /* default image */
+    background-image: url(../images/globalnav_contact.gif);
+	width:42px;
+	height:15px;
+}
+
+
+#materialscolumn,
+#datecolumn,
+#datacolumn {
+	float:left;
+	border-right:1px solid #dedede;
+	padding:3px;
+	height:98%;
+}
+
+#chartcolumn {
+	width:405px;
+	overflow:auto;
+	float:right;
+	height:100%;
+}
+
+/* MAP PANEL */
+#mapoverlay {
+position:absolute;
+width:980px; 
+z-index:200; 
+top:-1311px;
+left:0px;
+}
+
+#framewrapper 
+{
+width:980px; 
+position:absolute;
+top:0px;
+left:0px;
+text-align:center;
+z-index:300;
+}
+
+#contentwrapper
+{
+width:980px; 
+position:relative;
+z-index:350;
+margin-top:20px;
+}
+
+/*#mappanel
+{
+width:980px;
+height:1331px;
+background-color:#ffffff;
+border-bottom: 1px solid #d61f3a;
+position:relative;
+filter:alpha(opacity=100);
+-moz-opacity:1;
+-khtml-opacity: 1;
+opacity: 1;
+position:relative;
+z-index:300;
+}*/
+
+#mapbutton
+{
+	margin-left: auto;
+	margin-right: auto;
+	height:17px;
+	width:74px;
+	background: url(../images/mapbutton_show.gif);
+	background-repeat:no-repeat;
+	position:relative;
+	top:-1px;
+	z-index:310;
+}
+
+#hide_button
+{
+	margin-left: auto;
+	margin-right: auto;
+	height:17px;
+	width:74px;
+	background: url(../images/mapbutton_hide.gif);
+	background-repeat:no-repeat;
+	position:relative;
+	top:-1px;
+	z-index:310;
+}
+
+#bigmap
+{
+break: left;
+float: none;
+padding: 0px;
+margin: 0px; 
+margin-left: auto;
+margin-right: auto;
+position:relative;
+width:980px;
+height:1278px;
+}
+
+#mappulldownbox
+{
+position:relative;
+z-index:350;
+float:right;
+margin-right:15px;
+}
+
+#mapsselectbox
+{
+width:170px;
+}
+
+#pulldown
+{
+width:170px;
+}
+
+p.maptitle 
+{
+color:#d61f3a; font-size:20px;
+margin-bottom:5px;
+margin-left:15px;
+}
+
+p.widgetlabel
+{
+font-size:11px;
+margin-top:0px;
+margin-bottom:2px;
+}
+
+p.listlabel
+{
+color:#5a554c;
+font-size:12px;
+margin-top:8px;
+margin-bottom:2px;
+}
+
+
+/* MAIN */
+#maingen {width:980px; background-color:#FFFFFF; position:absolute; top:121px; left:17px; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+#main { width:950px; height:906px; margin:0 auto; position:relative; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+
+#maingoals {border:1px solid #d61f3a; width:980px; height:976px; background-color:#FFFFFF; position:absolute; top:121px; left:17px; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+.left {float:left}
+.right {float:right}
+.l {float:left; margin-left:10px; margin-top:3px; display:inline;}
+input.small {font-size:10px; width:60px;}
+.box { border:1px solid #cccccc; float:left; margin-left:15px; margin-top:15px; padding-left:2px; width:450px; height:297px; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/; }
+#profile { height:132px; }
+#summary {height:100px; overflow:auto; background:#ffffff; border:1px solid #cccccc; margin-top:5px;}
+#dontknow {height:100px; overflow:auto;}
+#dataglance { height:132px; }
+#dataglanceContent { height:113px; overflow:auto; }
+.tab { height:254px; border:none; margin-top:-1px; }
+.tip { display:inline; margin:1px 1px 0 0; }
+#geocontexttab {width:464px; height:280px;}
+#geopopulationtab {width:464px; height:280px;}
+#geousagetab {width:464px; height:280px;}
+#geomaterialstab {width:464px; height:280px;}
+#geosegmentstab {width:464px; height:280px;}
+
+#servusagetab {width:464px; height:280px;}
+#servlikemetab {width:464px; height:280px;}
+
+#geowheretab {width:464px; height:280px;}
+#geousagetab {width:464px; height:280px;}
+
+#measpoptab {width:464px; height:280px;}
+#measpopchangetab {width:464px; height:280px;}
+#measpatronstab {width:464px; height:280px;}
+#measpenratetab {width:464px; height:280px;}
+#measecheckoutstab {width:464px; height:280px;}
+
+#devgrowprojtab {width:464px; height:280px;}
+#devservstantab {width:464px; height:280px;}
+#devscentab {width:464px; height:280px;}
+#devcompstantab {width:464px; height:280px;overflow:auto;}
+
+#navselectbox {position: absolute; left:260px; top:26px;}
+#segmentstabgraph {width:464px; height:220px;}
+#delivery {width:464px; height:280px;}
+.tabs {width:464px; height:280px;}
+#delivery-mapbutton {position:absolute; bottom:20px; right:30px;}
+#likeme {width:464px; height:280px;}
+.maptab {width:464px; height:280px;overflow: -moz-scrollbars-vertical;overflow-y: scroll;}
+#neighborhoods-bookmobile {width:464px; height:280px;overflow:auto;}
+#rank {width:464px; height:280px;}
+#comparelikeme {width:464px; height:280px;}
+#servicestooffer {width:464px; height:280px;overflow:auto;}
+#howtoreach {width:464px; height:280px;overflow:auto;}
+#insights {width:464px; height:280px;overflow:auto;}
+
+.pulldowngraphbox {width:464px; height:225px;}
+/*tooltips*/
+.qtip-content { font-size: 9px; line-height:11px; }
+
+#summarytip {z-index:100;}
+#dktip {position:absolute; left:196px; top:2px;z-index:100;}
+
+#segmentstip {position:absolute; left:63px; top:2px;z-index:100;}
+#servicestip {position:absolute; left:142px; top:2px;z-index:100;}
+#segbyservtip {position:absolute; left:279px; top:2px;z-index:100;}
+#servbysegtip {position:absolute; left:417px; top:2px;z-index:100;}
+
+#geosegtip {position:absolute; left:52px; top:2px;z-index:100;}
+#locationstip {position:absolute; left:137px; top:2px;z-index:100;}
+#usagetip {position:absolute; left:201px; top:2px;z-index:100;}
+#servusagetip {position:absolute; left:86px; top:2px;z-index:100;}
+#deliverytip {position:absolute; left:201px; top:2px;z-index:100;}
+#servliketip {position:absolute; left:259px; top:2px;z-index:100;}
+
+#potentialtip {position:absolute; left:58px; top:2px;z-index:100;}
+
+#geowheretip {position:absolute; left:90px; top:2px;z-index:100;}
+#geousagetip {position:absolute; left:155px; top:2px;z-index:100;}
+
+#materialstip {position:absolute; left:280px; top:2px;z-index:100;}
+#growthtip {position:absolute; left:362px; top:2px;z-index:100;}
+
+
+#ranktip {position:absolute; left:85px; top:2px;z-index:100;}
+#comparelikemetip {position:absolute; left:193px; top:2px;z-index:100;}
+
+#statisticstip {position:absolute; left:60px; top:2px;z-index:100;}
+
+#populationtip {position:absolute; left:65px; top:2px;z-index:100;}
+#popchangetip {position:absolute; left:160px; top:2px;z-index:100;}
+#patronstip {position:absolute; left:231px; top:2px;z-index:100;}
+#pentratetip {position:absolute; left:346px; top:2px;z-index:100;}
+#checkoutstip {position:absolute; left:430px; top:2px;z-index:100;}
+
+#serviceoffertip {position:absolute; left:97px; top:2px;z-index:100;}
+#reachtip {position:absolute; left:216px; top:2px;z-index:100;}
+#insightstip {position:absolute; left:52px; top:2px;z-index:100;}
+
+#growthprotip {position:absolute; left:103px; top:2px;z-index:100;}
+#serstandtip {position:absolute; left:223px; top:2px;z-index:100;}
+#scenariostip {position:absolute; left:306px; top:2px;z-index:100;}
+#compstandtip {position:absolute; left:436px; top:2px;z-index:100;}
+
+#closedmaptip {position:absolute; left:482px; bottom:-4px; z-index:2500;}
+#openmaptip {position:absolute; left:482px; bottom:-4px; z-index:2500; display:none;}
+
+
+p.servicecat {font-size:12px; font-weight:bold;margin-top:10px; margin-bottom:2px;}
+p.service {margin-top:0px;margin-bottom:2px;}
+p.dk {margin-top:0px;margin-bottom:2px;}
+p.list {margin-top:0px; margin-bottom:2px;}
+img.hand {cursor:pointer;cursor:hand;}
+.maplink {cursor:pointer;cursor:hand;}
+.bookmobilemaplink {cursor:pointer;cursor:hand;}
+div.indent {margin-left:5px; margin-right:5px;margin-top:5px;}
+div.tooltipindent {margin-left:5px; margin-right:5px;margin-top:0px;}
+.goallabel {font-size:14px;margin-bottom:2px;}
+.goalbox {border-left: 1px solid #73aabe; border-top: 1px solid #73aabe; border-bottom: 1px dotted #73aabe; height:61px; width:169px; font-size:11px; padding:5px; float:left; cursor:pointer; cursor:hand;}
+.goalboxon {border-left: 1px solid #73aabe; border-top: 1px solid #73aabe; border-bottom: 1px dotted #73aabe; height:61px; width:169px; font-size:11px; padding:5px; float:left; background-color:#ffffd1;}
+.lastgoalbox {border-left: 1px solid #73aabe; border-right: 1px solid #73aabe; border-top: 1px solid #73aabe; border-bottom: 1px dotted #73aabe; height:61px; width:169px; font-size:11px; padding:5px; float:left;}
+.needinsight {width:169px; float:left; padding:5px;}
+.neednav {cursor:pointer;cursor:hand;background-color:transparent;}
+.needlabel {font-size:12px;font-weight:bold;margin-bottom:0px;}
+.insightlabel {font-size:12px;font-weight:bold;margin-top:12px; margin-bottom:0px;}
+ul.needs li {font-size:11px; list-style-type:none; }
+.hand {cursor:pointer;cursor:hand;}
+#graphbox {height:456px; width:864px;}
+p.graphlabel {font-size:14px;margin-top:0px;margin-bottom:0px;}
+p.widgetins {font-size:8px;margin-top:0px;margin-bottom:2px}
+.leftbar {width:17px; height:906px; position:absolute; top:0; left:0; background: url(../images/leftbar.jpg);  overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+.rightbar {width:14px; height:906px; position:absolute; top:0; left:997px; background: url(../images/rightbar.jpg);  overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+#segmentimage {width:142px; height:122px; position:absolute; top:23px; left:760px; background: url(../images/familyimage.jpg);  overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+
+#countyimage {width:226px; height:149px; position:absolute; top:25px; left:710px; background: url(../images/county_mood.jpg);  overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+
+#profiletitle {position:absolute; top:-37px; left:20px; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+.ptitle {color:#000000; font-size:24px;}
+.stitle {background:url(images/titleBar-bg.jpg) repeat-x;color:#000000; font-size:12px; line-height:20px; margin-left:-2px; padding-left:15px; width:438px; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+p.tabst {font-size:11px;font-weight:bold;margin-top:5px; margin-bottom:0px;}
+.plain {list-style-type: none;}
+div.left {float:left;margin-right:10px;}
+.contentleft {float:left; width:520px; }
+.featureright {float:right; width:273px;}
+.clear {clear:both;}
+div.fullindenttwocol {margin-left:34px; margin-right:59px; margin-top:30px; margin-bottom:30px;}
+div.fullindent {margin-left:34px; margin-right:29px; margin-top:30px; margin-bottom:30px;}
+p.subtitle {color:#d61f3a; font-size:19px; margin-top:12px;margin-bottom:2px;}
+.segselect {width:200px;}
+.mapselect {width:200px;}
+div.inline {float:left; margin-right:5px;}
+div.inlinebutton {float:left;}
+
+span.radiolabel {font-size:11px;margin-left:3px;margin-right:14px;}
+p.charlabel {margin-top:15px; margin-bottom:2px;}
+p.listlabel {margin-bottom:2px;}
+
+ul.tabcontent {margin-left:10px;padding-left:10px;font-size:11px;color:#151515;}
+
+.tabbuttonbox {margin-top:10px;}
+p.tabletitle {font-size:12px; font-weight:bold; color:#151515; margin-bottom:0px;}
+.statblock {margin-top:15px;}
+table.tablong {font-size:9px;line-height:10px;}
+table.stats {border-collapse:collapse;}
+table {border-collapse:collapse;}
+th, td {font-size:9px; padding:1px;}
+th {border-bottom: 1px solid black;}
+.last {border-right:0;}
+.pot {text-align:center;border-right:0;}
+
+#potentialdef {font-size:9px; margin-left:5px; display:none; width:268px;}
+#openmarketdef {display:none; width:268px;font-size:9px;}
+
+#insights p {color:#151515;}
+p.content  {color:#151515;}
+
+span.link {color:#d61f3a; text-decoration:underline; cursor: pointer; _cursor: hand;}
+
+/* FOOTER */
+#footer { margin-top:-20px; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+#footergoals {width:1014px; height:70px; position:absolute; top:1109px; left:0; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+#copyright{margin-top:5px;}
+.copyright {font-size:10px; color:#5a554c; text-align:center;}
+.footer {font-size:13px; color:#5a554c; text-align:center;}
+.footer A {color:#5a554c;margin-left:4px;margin-right:4px;}
+
+/* WIDTHS*/
+.half { width:450px; }
+.full { width:918px; }
+.wide { width:600px; }
+.narrow { width:300px; }
+.half .stitle { width:438px; }
+.full .stitle { width:906px; }
+.wide .stitle { width:588px; }
+.narrow .stitle { width:288px; }
+.half .tab { width:445px; }
+.full .tab { width:913px; }
+.wide .tab { width:595px; }
+.narrow .tab { width:284px; }
+
+
+
+
+
+/* Caution! Ensure accessibility in print and other media types... */
+@media projection, screen { /* Use class for showing/hiding tab content, so that visibility can be better controlled in different media types... */
+  .ui-tabs .ui-tabs-hide {
+    position: absolute;
+    left: -10000px;
+}
+}
+
+/* Hide useless elements in print layouts... */
+@media print {
+    .ui-tabs-nav {
+        display: none;
+    }
+}
+
+/* Skin */
+.ui-tabs-nav, .ui-tabs-panel {
+    font-family: Arial, sans-serif;
+  font-size:10px;
+}
+.ui-tabs-nav {
+    list-style: none;
+    margin: 0 0 0 3px;
+    padding: 0 0 0 0px;
+}
+.ui-tabs-nav:after { /* clearing without presentational markup, IE gets extra treatment */
+    display: block;
+    clear: both;
+    content: " ";
+}
+.ui-tabs-nav li {
+	background:url(images/smallTab.png) repeat-x;
+	border-radius:2px 2px 0 0;
+	-webkit-border-radius:2px 2px 0 0;
+	-moz-border-radius:2px 2px 0 0;
+    float: left;
+    margin: 5px 1px 0 0px;
+    font-weight: bold;
+}
+
+.ui-tabs-nav li.ui-state-active {
+	color:#cccccc;
+	background:#ffffff;
+	border:1px solid #cccccc;
+	border-bottom:1px solid #ffffff;
+    float: left;
+    margin: 3px 1px 0 0px;
+    font-weight: bold;
+}
+
+.ui-tabs-nav li.ui-state-active a {
+	color:#666666;
+}
+
+.ui-tabs-nav a, .ui-tabs-nav a span {
+    float: left; /* fixes dir=ltr problem and other quirks IE */
+    padding: 0 12px;
+	padding-right:20px;
+    background: url(../images/tabs_short.png) no-repeat;
+}
+.ui-tabs-nav a {
+    margin: 0px 0 0; /* position: relative makes opacity fail for disabled tab in IE */
+    padding-left: 0;
+    background-position: 100% 0;
+    text-decoration: none;
+    white-space: nowrap; /* @ IE 6 */
+    outline: 0; /* @ Firefox, prevent dotted border after click */    
+}
+.ui-tabs-nav a:link, .ui-tabs-nav a:visited {
+    color:#ffffff;
+}
+.ui-tabs-nav .ui-tabs-selected a {
+    position: relative;
+    top: 1px;
+    z-index: 2;
+    margin-top: 0;
+    background-position: 100% -19px;
+}
+.ui-tabs-nav a span {
+    padding-top: 0;
+    padding-right: 0;
+    height: 14px;
+    background-position: 0 0;
+    line-height: 14px;
+}
+.ui-tabs-nav .ui-tabs-selected a span {
+    padding-top: 0;
+    height: 15px;
+    background-position: 0 -19px;
+    line-height: 15px;
+}
+.ui-tabs-nav .ui-tabs-selected a:link, .ui-tabs-nav .ui-tabs-selected a:visited,
+.ui-tabs-nav .ui-tabs-disabled a:link, .ui-tabs-nav .ui-tabs-disabled a:visited { /* @ Opera, use pseudo classes otherwise it confuses cursor... */
+    cursor: text;
+}
+.ui-tabs-nav a:hover, .ui-tabs-nav a:focus, .ui-tabs-nav a:active,
+.ui-tabs-nav .ui-tabs-unselect a:hover, .ui-tabs-nav .ui-tabs-unselect a:focus, .ui-tabs-nav .ui-tabs-unselect a:active { /* @ Opera, we need to be explicit again here now... */
+    cursor: pointer;
+}
+.ui-tabs-disabled {
+    opacity: .4;
+    filter: alpha(opacity=40);
+}
+.ui-tabs-nav .ui-tabs-disabled a:link, .ui-tabs-nav .ui-tabs-disabled a:visited {
+    color: #000;
+}
+.ui-tabs-panel {
+	border:1px solid #cccccc;
+	margin-top:-1px;
+    padding: 0px;
+	padding-left:0px;
+	padding-bottom:0px;
+	padding-top:0px;
+    background: #fff; /* declare background color for container to avoid distorted fonts in IE while fading */
+}
+/*.ui-tabs-loading em {
+    padding: 0 0 0 20px;
+    background: url(loading.gif) no-repeat 0 50%;
+}*/
+
+/* Additional IE specific bug fixes... */
+* html .ui-tabs-nav { /* auto clear @ IE 6 & IE 7 Quirks Mode */
+    display: inline-block;
+}
+*:first-child+html .ui-tabs-nav  { /* auto clear @ IE 7 Standards Mode - do not group selectors, otherwise IE 6 will ignore complete rule (because of the unknown + combinator)... */
+    display: inline-block;
+}

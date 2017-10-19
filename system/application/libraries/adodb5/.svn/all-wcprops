@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5
+END
+adodb-php4.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-php4.inc.php
+END
+adodb-datadict.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-datadict.inc.php
+END
+toexport.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/toexport.inc.php
+END
+adodb-active-recordx.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-active-recordx.inc.php
+END
+adodb-exceptions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-exceptions.inc.php
+END
+adodb-xmlschema.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-xmlschema.inc.php
+END
+adodb-csvlib.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-csvlib.inc.php
+END
+rsfilter.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/rsfilter.inc.php
+END
+adodb-xmlschema03.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-xmlschema03.inc.php
+END
+xmlschema.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/xmlschema.dtd
+END
+adodb-pear.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-pear.inc.php
+END
+adodb-active-record.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-active-record.inc.php
+END
+server.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/server.php
+END
+adodb-errorhandler.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-errorhandler.inc.php
+END
+xmlschema03.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/xmlschema03.dtd
+END
+adodb-iterator.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-iterator.inc.php
+END
+adodb-error.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-error.inc.php
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/license.txt
+END
+adodb-perf.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-perf.inc.php
+END
+adodb-time.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-time.inc.php
+END
+adodb-pager.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-pager.inc.php
+END
+tohtml.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/tohtml.inc.php
+END
+adodb-errorpear.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-errorpear.inc.php
+END
+adodb.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb.inc.php
+END
+pivottable.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/pivottable.inc.php
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/readme.txt
+END
+adodb-lib.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-lib.inc.php
+END
+adodb-memcache.lib.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Main/!svn/ver/170/CommunityConnect/trunk/civic/system/application/libraries/adodb5/adodb-memcache.lib.inc.php
+END

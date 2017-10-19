@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Main/!svn/ver/821/CommunityConnect/trunk/civic/system/application/controllers
+END
+compareservices.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Main/!svn/ver/821/CommunityConnect/trunk/civic/system/application/controllers/compareservices.php
+END
+literacydecision.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Main/!svn/ver/791/CommunityConnect/trunk/civic/system/application/controllers/literacydecision.php
+END
+common_ajax.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Main/!svn/ver/695/CommunityConnect/trunk/civic/system/application/controllers/common_ajax.php
+END
+welcome.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Main/!svn/ver/166/CommunityConnect/trunk/civic/system/application/controllers/welcome.php
+END
+increaseservices.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Main/!svn/ver/788/CommunityConnect/trunk/civic/system/application/controllers/increaseservices.php
+END
+reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Main/!svn/ver/599/CommunityConnect/trunk/civic/system/application/controllers/reports.php
+END
+marketresearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Main/!svn/ver/811/CommunityConnect/trunk/civic/system/application/controllers/marketresearch.php
+END
+myaccount.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Main/!svn/ver/772/CommunityConnect/trunk/civic/system/application/controllers/myaccount.php
+END
+modelsegments.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Main/!svn/ver/622/CommunityConnect/trunk/civic/system/application/controllers/modelsegments.php
+END
+logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Main/!svn/ver/482/CommunityConnect/trunk/civic/system/application/controllers/logout.php
+END
+customeradmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Main/!svn/ver/776/CommunityConnect/trunk/civic/system/application/controllers/customeradmin.php
+END
+import.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Main/!svn/ver/754/CommunityConnect/trunk/civic/system/application/controllers/import.php
+END
+logon.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Main/!svn/ver/813/CommunityConnect/trunk/civic/system/application/controllers/logon.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Main/!svn/ver/815/CommunityConnect/trunk/civic/system/application/controllers/update.php
+END
+findcustomers.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Main/!svn/ver/796/CommunityConnect/trunk/civic/system/application/controllers/findcustomers.php
+END
+home.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Main/!svn/ver/719/CommunityConnect/trunk/civic/system/application/controllers/home.php
+END

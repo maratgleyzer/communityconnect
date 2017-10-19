@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Main/!svn/ver/166/CommunityConnect/trunk/civic/system/database/drivers/mssql
+END
+mssql_driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Main/!svn/ver/166/CommunityConnect/trunk/civic/system/database/drivers/mssql/mssql_driver.php
+END
+mssql_result.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Main/!svn/ver/166/CommunityConnect/trunk/civic/system/database/drivers/mssql/mssql_result.php
+END
+mssql_forge.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Main/!svn/ver/166/CommunityConnect/trunk/civic/system/database/drivers/mssql/mssql_forge.php
+END
+mssql_utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Main/!svn/ver/166/CommunityConnect/trunk/civic/system/database/drivers/mssql/mssql_utility.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Main/!svn/ver/166/CommunityConnect/trunk/civic/system/database/drivers/mssql/index.html
+END

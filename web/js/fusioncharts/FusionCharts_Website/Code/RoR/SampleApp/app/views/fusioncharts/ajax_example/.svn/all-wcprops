@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/Code/RoR/SampleApp/app/views/fusioncharts/ajax_example
+END
+factory_details.builder
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/Code/RoR/SampleApp/app/views/fusioncharts/ajax_example/factory_details.builder
+END
+factory_chart.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/Code/RoR/SampleApp/app/views/fusioncharts/ajax_example/factory_chart.html.erb
+END
+_factory_sum_chart.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/Code/RoR/SampleApp/app/views/fusioncharts/ajax_example/_factory_sum_chart.html.erb
+END
+_factory_details_chart.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/Code/RoR/SampleApp/app/views/fusioncharts/ajax_example/_factory_details_chart.html.erb
+END
+default_factories_quantity.builder
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/Code/RoR/SampleApp/app/views/fusioncharts/ajax_example/default_factories_quantity.builder
+END
+default_factories_chart.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/Main/!svn/ver/196/CommunityConnect/trunk/civic/web/js/fusioncharts/FusionCharts_Website/Code/RoR/SampleApp/app/views/fusioncharts/ajax_example/default_factories_chart.html.erb
+END

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>FusionCharts v3 Documentation</title>
+<link rel="stylesheet" href="../css/Style.css" type="text/css" />
+<script type="text/javascript" src="../assets/prettify/prettify.js"></script>
+<link rel="stylesheet" type="text/css" href="../assets/prettify/prettify.css" />
+<script type="text/javascript" src="../assets/ui/js/jquery-1.4.2.min.js" ></script>
+<script type="text/javascript" src="../assets/ui/js/lib.js" ></script>
+</head>
+
+<body>
+<table width="98%" border="0" cellspacing="0" cellpadding="3" align="center">
+  <tr>
+    <td valign="top" class="pageHeader">Handling errors using FusionCharts JavaScript class</td>
+  </tr>
+  
+  <tr>
+     <td valign="top" class="text">
+        <p>FusionCharts JavaScript class provides an effective mechanism to debug charts. Errors can be debugged using one of the following methods:</p>
+        <ul>
+           <li>Listening to data-error related events using simple events model </li>
+           <li>Listening to data-error related events using advanced events registration model </li>
+           <li>Using JavaScript debug mode</li>
+         </ul>
+        <p>Let us see below how each can be implemented:</p>
+        <p class="header"><a name="simple" id="simple"></a>Listening to data-error related events using simple events model </p>
+        <p>The chart itself can raise one of three data related errors listed below:</p>
+        <ol><li><span class="codeInline">FC_NoDataToDisplay</span> : This event is fired when the XML data loaded by chart didn't contain any data to display. It   can be used to show an error message to user, or to take a corrective   measure. </li>
+           <li><span class="codeInline">FC_DataLoadError</span> : This event is fired when there was an error in loading data from the specified Url. It can   be used to show an error message to user, or to take a corrective   measure.</li>
+           <li><span class="codeInline">FC_DataXMLInvalid</span> : This event is fired when the XML data loaded by chart is invalid. It   can be used to show an error message to user, or to take a corrective   measure.</li>
+         </ol>
+        <p class="highlightBlock">You can listen to these events and take necessary steps as per the requirement you have. For sample with detailed description read <strong>Debugging your Charts</strong> &gt; <a href="../Debug/JS.html#simple">Using JavaScript</a> page, </p>
+        <p class="header"><a name="advanced" id="advanced"></a>Listening to data-error related events using advanced events registration model </p>
+        <p>Using advanced event registration model, you can also listen to the events listed above. The event types or event names for the above mentioned events are <span class="codeInline">NoDataToDisplay</span>, <span class="codeInline">DataLoadError</span>, <span class="codeInline">DataXMLInvalid</span>. </p>
+        <p>Additionally, FusionCharts JavaScript Library provides two more error  events.</p>
+        <ol>
+           <li>Error</li>
+           <li>Warning</li>
+        </ol>
+        <p>You can listen to the above events globally  or on a per-chart basis. </p>
+        <p class="highlightBlock">For sample implementation and explanations read  <strong>Debugging your Charts</strong> &gt; <a href="../Debug/JS.html#advanced">Using JavaScript</a> page. </p>
+        <p class="header"><a name="jsdebug" id="jsdebug"></a>Using JavaScript debug mode</p>
+        <p>FusionCharts JavaScript Library has its from the debug mode of individual  FusionCharts swfs, the has its own <span class="codeInline">debugMode</span> as  well. This allows users to watch the chart&rsquo;s JavaScript activities and debug charts  accordingly.  To enable the JavaScript <span class="codeInline">debugMode</span>, you  need to write the following lines of code:</p>
+        <pre class="code_container prettyprint">FusionCharts.debugMode.enabled(true);
+FusionCharts.debugMode.outputTo(console.log);</pre>
+        <p class="highlightBlock">For details of this debug mode, sample code snippets and explanations read  <strong>Debugging your Charts</strong> &gt; <a href="../Debug/JS.html">Using JavaScript</a> page. </p>
+     </td>
+  </tr>
+</table>
+</body>
+</html>

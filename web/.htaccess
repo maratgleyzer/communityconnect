@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+      RewriteEngine on
+      RewriteBase /
+      RewriteCond $1 !^(errorpage\.php|errorpage\..*|favicon\.ico|robots\.txt|index\.php|js|css|graphics|legendInfo\.php|proxy\.php)
+      RewriteRule ^(.*)$ index.php/$1 [L]
+</IfModule>
+
+ErrorDocument 404 /errorpage.php
